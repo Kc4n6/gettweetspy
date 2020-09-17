@@ -1,2 +1,2 @@
 # gettweetspy
-gettweets 
+give a username and wait... 
